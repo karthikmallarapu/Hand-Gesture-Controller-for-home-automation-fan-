@@ -15,7 +15,7 @@ This project demonstrates a system that allows users to control a fan using hand
 - Python
 - OpenCV
 - NumPy
-- (Add Arduino if used)
+- Arduino
 
 ---
 ## Circuit Design

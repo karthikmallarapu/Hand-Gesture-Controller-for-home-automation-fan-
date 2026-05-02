@@ -18,6 +18,11 @@ This project demonstrates a system that allows users to control a fan using hand
 - (Add Arduino if used)
 
 ---
+## Circuit Design
+![Circuit](images/circuit/circuit_design.png)
+
+## Hardware Used
+![Hardware](images/hardware/hardware_used.png)
 
 ##  Project Structure
 - hardware used.png – Components used in the project  
